@@ -1,0 +1,12 @@
+C:\Users\Dimitris\Source\Repos\ReverseShells\ReverseShells\bin\Debug\netcoreapp2.0\ReverseShells.deps.json
+C:\Users\Dimitris\Source\Repos\ReverseShells\ReverseShells\bin\Debug\netcoreapp2.0\ReverseShells.runtimeconfig.json
+C:\Users\Dimitris\Source\Repos\ReverseShells\ReverseShells\bin\Debug\netcoreapp2.0\ReverseShells.runtimeconfig.dev.json
+C:\Users\Dimitris\Source\Repos\ReverseShells\ReverseShells\bin\Debug\netcoreapp2.0\ReverseShells.dll
+C:\Users\Dimitris\Source\Repos\ReverseShells\ReverseShells\obj\Debug\netcoreapp2.0\ReverseShells.csprojResolveAssemblyReference.cache
+C:\Users\Dimitris\Source\Repos\ReverseShells\ReverseShells\obj\Debug\netcoreapp2.0\ReverseShells.csproj.CoreCompileInputs.cache
+C:\Users\Dimitris\Source\Repos\ReverseShells\ReverseShells\obj\Debug\netcoreapp2.0\ReverseShells.AssemblyInfoInputs.cache
+C:\Users\Dimitris\Source\Repos\ReverseShells\ReverseShells\obj\Debug\netcoreapp2.0\ReverseShells.AssemblyInfo.cs
+C:\Users\Dimitris\Source\Repos\ReverseShells\ReverseShells\bin\Debug\netcoreapp2.0\ReverseShells.pdb
+C:\Users\Dimitris\Source\Repos\ReverseShells\ReverseShells\bin\Debug\netcoreapp2.0\EasyConsole.Core.dll
+C:\Users\Dimitris\Source\Repos\ReverseShells\ReverseShells\obj\Debug\netcoreapp2.0\ReverseShells.dll
+C:\Users\Dimitris\Source\Repos\ReverseShells\ReverseShells\obj\Debug\netcoreapp2.0\ReverseShells.pdb
